@@ -86,9 +86,9 @@ Regarding project management we have set up regular alignments (once a week) amo
 # Mid term activities (6 months)
 Web3 Italy has been born for 3 months, it is a small community, but we are very satisfied with the results achieved. In these months, we have built our base, in terms of digital, the way we work and the contacts we have achieved. We know how to continue and move forward. For the next six months, we have important goals:
 <ul>
-<li> Consolidate the community and expand it</li> 
-<li> Monitor digital analytics and improve KPIs</li> 
-<li> Continue to create more tech and Neo related content</li> 
-<li> Monitor digital analytics and improve KPIs</li> 
-<li> Making a dApp grow out of our community</li> 
+<li> Consolidate the community and expand it;</li> 
+<li> Monitor digital analytics and improve KPIs;</li> 
+<li> Continue to create more tech and Neo related content;</li> 
+<li> Monitor digital analytics and improve KPIs;</li> 
+<li> Making a dApp grow out of our community.</li> 
 </ul>
