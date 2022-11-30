@@ -89,6 +89,6 @@ Web3 Italy has been born for 3 months, it is a small community, but we are very 
 <li> Consolidate the community and expand it;</li> 
 <li> Monitor digital analytics and improve KPIs;</li> 
 <li> Continue to create more tech and Neo related content;</li> 
-<li> Monitor digital analytics and improve KPIs;</li> 
+<li> Start engaging new stakeholders such as startups, companies and makers;</li> 
 <li> Making a dApp grow out of our community.</li> 
 </ul>
