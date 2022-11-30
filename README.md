@@ -80,7 +80,7 @@ Meetups are another essential element of a community. They represent moments of 
 # How to start the community
 It all sounds very simple, but it really isn't and especially at first. How to start? From direct contacts, from people who have always asked you for Crypto info. Let's start that way, and if they get along well, they will introduce the community in turn to their friends. Think about small goals and try to achieve them. One small step at a time. Our goal is to be the reference point in Italy for Web3 and Neo N3, but it will take time. The important thing is to map out a solid plan and try to stick to it and monitor the results. The field is young, and there are a lot of intrigued people. Vision and perseverance are needed.
 
-#Project Management
+# Project Management
 Regarding project management we have set up regular alignments (once a week) among us (3 members of core team), to monitor the progress of the project and the adherence with the plan. These meetings are very important to verify the goodness of the plan, to verify the ongoing activities and to agree on corrective actions, if needed. Other than this, regular touch base moments are crucial in plan such the one we have, that has been defined at high level, but is detailed in an incremental way. Firstly, you need to have a macro plan, clearly defined in terms of timing and milestones, afterwards you can work to enrich it with micro activities and ancillary initiatives. Last but not least, it is key to define precise and measurable KPIs to control the activities, to have regular answers about the work and to adjust, review, modify, when necessary.
 
 # Mid term activities (6 months)
