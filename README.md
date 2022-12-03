@@ -84,7 +84,7 @@ It all sounds very simple, but it really isn't and especially at first. How to s
 Regarding project management we have set up regular alignments (once a week) among us (3 members of core team), to monitor the progress of the project and the adherence with the plan. These meetings are very important to verify the goodness of the plan, to verify the ongoing activities and to agree on corrective actions, if needed. Other than this, regular touch base moments are crucial in plan such the one we have, that has been defined at high level, but is detailed in an incremental way. Firstly, you need to have a macro plan, clearly defined in terms of timing and milestones, afterwards you can work to enrich it with micro activities and ancillary initiatives. Last but not least, it is key to define precise and measurable KPIs to control the activities, to have regular answers about the work and to adjust, review, modify, when necessary.
 
 # Mid term activities (6 months)
-Web3 Italy has been born for 3 months, it is a small community, but we are very satisfied with the results achieved. In these months, we have built our base, in terms of digital, the way we work and the contacts we have achieved. We know how to continue and move forward. For the next six months, we have important goals:
+Web3 Italia has been born for 3 months, it is a small community, but we are very satisfied with the results achieved. In these months, we have built our base, in terms of digital, the way we work and the contacts we have achieved. We know how to continue and move forward. For the next six months, we have important goals:
 <ul>
 <li> Consolidate the community and expand it;</li> 
 <li> Monitor digital analytics and improve KPIs;</li> 
