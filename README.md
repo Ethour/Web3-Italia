@@ -58,6 +58,7 @@ We decided to base our communication strategy starting with a very broad and in-
 <li><a title="Neo N3: the importance of interoperability
 " href="https://web3italia.org/neo-n3-limportanza-dellinteroperabilita/" target="_blank" rel="noopener">Neo N3: the importance of interoperability
 </a></li> 
+<li><a title="Neo N3 & Zero Knowledge Proof" href="https://web3italia.org/neo-n3-e-zero-knowledge-proof/" target="_blank" rel="noopener">Neo N3 & Zero Knowledge Proof</a></li> 
 </ul>
 
 ### Development
