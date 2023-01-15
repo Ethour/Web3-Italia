@@ -13,7 +13,7 @@ The purpose of this project is to create the first Web3 local community focused 
 ## Team
 The team consists of 3 members:
 <ul>
-<li>•	A Key User, who has in-depth knowledge of Web3 and the Neo N3 protocol. This figure is essential, because he will be the one will transfer concepts and domain knowledge to the community and guide the project on themes and content;</li>
+<li>A Key User, who has in-depth knowledge of Web3 and the Neo N3 protocol. This figure is essential, because he will be the one will transfer concepts and domain knowledge to the community and guide the project on themes and content;</li>
 
 <li>A Marketer, able to manage the website, Social Networks and to organize events, physical and virtual. This figure is essential to lead the engagement with the community;</li>
 
