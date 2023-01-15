@@ -62,7 +62,10 @@ We decided to base our communication strategy starting with a very broad and in-
 
 ### Development
 <ul>
+<li><a title="NeoNewsToday" href="https://neonewstoday.com/" target="_blank" rel="noopener">NeoNewsToday</a></li> 
 <li><a title="Develop on Neo N3" href="https://web3italia.org/sviluppare-su-neo-n3/" target="_blank" rel="noopener">Develop on Neo N3</a></li> 
+<li><a title="nDapps" href="https://ndapp.org/" target="_blank" rel="noopener">nDapps</a></li> 
+<li><a title="GitHub" href="https://github.com/Ethour/Web3-Italia/blob/main/README.md" target="_blank" rel="noopener">GitHub</a></li> 
 </ul>
 
 ## Telegram Group
