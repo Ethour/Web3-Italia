@@ -8,7 +8,7 @@ The purpose of this project is to create the first Web3 local community focused 
 
 
 
-# Short term activities (3 months)
+# Short term activities
 
 ## Team
 The team consists of 3 members:
@@ -23,7 +23,7 @@ The team consists of 3 members:
 ## Website
 We built the <a title="Web3 Italia" href="https://web3italia.org" target="_blank" rel="noopener">Web3 Italia</a> website as the first thing. The site was built on Wordpress, so even non-developer can replicate it. We used the <a title="Avada" href="https://it.siteground.com" target="_blank" rel="noopener"> Avada</a> template (one of the most popular) and <a title="Siteground" href="https://theme-fusion.com" target="_blank" rel="noopener"> Siteground</a> as hosting, which is quite commercial and cheap.
 
-We decided to base our communication strategy starting with a very broad and in-demand keyword, "Web3",making it local with "Italia" to attract interest in the Italian market and position ourselves at the top of the search very quickly. It is a simple website, a static homepage with some call to actions, a classic "About" page and 3 main categories for our contents: Web3 basic topics, Use cases Neo N3 related and Development. The content was written sequentially, assuming a community learning path from scratch. For this very reason, the content can also be bundled into a single ebook (for educational purposes only, no commercial) and distributed to interested users. The content is not all original; much material was already available on the Web and in the Neo Community. The search for the best sources and adaptation of the texts was the most time-consuming work. Below you will find the list of our posts, which can be taken and repurposed to launch other Neo Local Communities.
+We decided to base our communication strategy starting with a very broad and in-demand keyword, "Web3", making it local with "Italia" to attract interest in the Italian market and position ourselves at the top of the search very quickly. It is a simple website, a static homepage with some call to actions, a classic "About" page and 3 main categories for our contents: Web3 basic topics, Use cases Neo N3 related and Development. The content was written sequentially, assuming a community learning path from scratch. For this very reason, the content can also be bundled into a single ebook (for educational purposes only, no commercial) and distributed to interested users. The content is not all original; much material was already available on the Web and in the Neo Community. The search for the best sources and adaptation of the texts was the most time-consuming work. Below you will find the list of our posts, which can be taken and repurposed to launch other Neo Local Communities.
 
 ### Web3
 <ul>
@@ -87,8 +87,8 @@ It all sounds very simple, but it really isn't and especially at first. How to s
 # Project Management
 Regarding project management we have set up regular alignments (once a week) among us (3 members of core team), to monitor the progress of the project and the adherence with the plan. These meetings are very important to verify the goodness of the plan, to verify the ongoing activities and to agree on corrective actions, if needed. Other than this, regular touch base moments are crucial in plan such the one we have, that has been defined at high level, but is detailed in an incremental way. Firstly, you need to have a macro plan, clearly defined in terms of timing and milestones, afterwards you can work to enrich it with micro activities and ancillary initiatives. Last but not least, it is key to define precise and measurable KPIs to control the activities, to have regular answers about the work and to adjust, review, modify, when necessary.
 
-# Mid term activities (6 months)
-Web3 Italia has been born for 3 months, it is a small community, but we are very satisfied with the results achieved. In these months, we have built our base, in terms of digital, the way we work and the contacts we have achieved. We know how to continue and move forward. For the next six months, we have important goals:
+# Mid term activities
+Web3 italia was born in the fourth quarter of 2022. A small community was established with the first few months, and the results have met our expectations. In these period, we have built our base, in terms of digital, the way we work and the contacts we have achieved. We have drawn the line to follow. Our goals are the follow:
 <ul>
 <li> Consolidate the community and expand it;</li> 
 <li> Monitor digital analytics and improve KPIs;</li> 
@@ -96,3 +96,14 @@ Web3 Italia has been born for 3 months, it is a small community, but we are very
 <li> Start engaging new stakeholders such as startups, companies, KOLs and makers;</li> 
 <li> Making a dApp grow out of our community.</li> 
 </ul>
+
+# Long term activities
+We subjected our digital project to an <a title="Seo audit" href="https://docs.google.com/document/d/1FMie6ioAm3-81r3IWioT0HN7VXuVEwNn4vBob2qX6fc/edit?usp=sharing" target="_blank" rel="noopener">Seo audit</a>. The output of the report provided us with guidelines for optimizing what was already built and some very interesting ideas about next steps. We have also finalized the 2023 editorial plan for the website and we have scheduled a publication schedule that respects a minimum frequency. 
+
+We are continuing to organize at least one meetup per month, we have the conviction that it is the right interval to meet our community, maintaining a "light" relationship and to continue in this way to the development of relationships with our contacts.
+
+We have a fairly important contact with an NGO interested in using blockchain for its own internal project. In Italy, public funds have been allocated for such projects, so there is a lot of interest in it and it could be a repeatable project with other organizations as well. The analysis phase should start soon.
+
+We produced the "<a title="New Web3 Model" href="https://docs.google.com/document/d/1wIB2mh51wFOu71qKXvid00saYMxl-bFJ/edit" target="_blank" rel="noopener">New Web3 Model</a>" document as the end-of-project output that as per our proposal was scheduled over 6 months. We sincerely hope that this document will be useful to everyone as a starting point for future initiatives. The document is the result of our ideas and comments from many of you, the Neo community and Web3 Italy. In these months we have collected a lot of feedback by actively participating in discussions on Discord, Telegram, Reddit. Please consider this document as a starting point for our future discussions.
+
+The 6-month project is over, but for us a journey has begun that we will continue to pursue with enthusiasm. We are available to anyone who needs discussion or support and wants to start a local community. There are so many people out there who are eager to learn about our world and enter our bubble :)
