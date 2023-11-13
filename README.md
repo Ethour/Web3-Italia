@@ -114,27 +114,3 @@ The 6-month project is over, but for us a journey has begun that we will continu
 
 ## bNeo income
 bNeo income is a Telegram bot (@bNeoIncome_bot), designed to provide bNeo holders with instant updates on the passive income they can earn. By inputting the command /gas_update followed by the amount of bNeo owned, users can get detailed information on their potential earnings. The bot calculates key performance yields such as daily, weekly, and monthly returns, the annual percentage rate (APR), and the Gas/bNeo and Gas/Flamingo ratio. The default calculation is based on 1,000 bNeo if no amount is specified. 
-
-## AInsight (beta)
-<a title="AInsight" href="https://t.me/+BKx494ueqsQyYjQ0" target="_blank" rel="noopener">AInsight</a> is a suite of financial reports AI BAsed. They are provided for educational and informational purposes only and are not intended as financial advice or a solicitation for public savings.
-
-The reports cover various markets, including US and Italian stocks, ETFs, cryptocurrencies, and commodities. They should be interpreted with the investment strategy in mind: long or short, as stated at the beginning of each report. The overall market sentiment is analyzed for ETFs, cryptocurrencies, and commodities.
-
-"AInsight Index" rates assets on a scale of 0-100 based on technical indicators, aiming for a balance value of 50. "AI Range" suggests a target and protection for the operation, assuming a strategy with a trailing stop, with the daily time-frame set for the duration of the operations until the target is reached.
-
-Signal types for US and Italian stocks include Buy, Sell, Watchlist, Trend Following, and Neutral, indicating various market trends and interests. For ETFs, cryptocurrencies, and commodities, signals are Long or Short, indicating bullish or bearish trends.
-
-Sentiment analysis is currently available for US stocks only, with an overall sentiment provided for ETFs, cryptocurrencies, and commodities markets.
-
-Daily updates will include economic, financial, and business technology news.
-
-The schedule is as follows (CET):
-<ul>
-<li> 08:30 | Market Movers
-<li> 09:00 | Stocks ITA Report
-<li> 11:00 | Crypto Report
-<li> 13:00 | ETF Report
-<li> 15:00 | Stocks USA Report
-<li> 17:00 | Commodity report
-<li> 18:00 | Business Tech
-</ul>
